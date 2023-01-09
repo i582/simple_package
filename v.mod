@@ -1,6 +1,6 @@
 Module {
 	name: 'simple_package'
-  version: '0.1.0'
+	version: '0.1.0'
 	description: 'Test package'
-	dependencies: []
+	dependencies: ['vlang/markdown']
 }
